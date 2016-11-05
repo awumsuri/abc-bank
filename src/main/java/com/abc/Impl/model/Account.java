@@ -1,4 +1,4 @@
-package com.abc.model;
+package com.abc.Impl.model;
 
 import com.abc.Impl.Transaction;
 
@@ -61,8 +61,10 @@ public abstract class Account {
         double total = 0.0;
 
         for(Transaction t : this.transactions) {
-
+            total += t.getAmount();
         }
+
+        return total;
     }
 
 }

@@ -1,6 +1,6 @@
 package com.abc.Impl;
 
-import com.abc.model.Account;
+import com.abc.Impl.model.Account;
 
 import java.util.ArrayList;
 import java.util.List;

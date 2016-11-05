@@ -1,6 +1,4 @@
-package com.abc.model;
-
-import com.abc.model.Account;
+package com.abc.Impl.model;
 
 /**
  * Created by Mtui on 10/20/16.

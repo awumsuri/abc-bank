@@ -1,4 +1,4 @@
-package com.abc.model;
+package com.abc.Impl.model;
 
 /**
  * Created by Mtui on 10/20/16.

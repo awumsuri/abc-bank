@@ -1,6 +1,6 @@
 package com.abc.factory;
 
-import com.abc.model.*;
+import com.abc.Impl.model.*;
 
 /**
  * Created by Mtui on 10/20/16.
